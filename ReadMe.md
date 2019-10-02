@@ -1,7 +1,7 @@
 This is the link to my published article:
 - https://bitly.com/Why-Startups-Fail
 
-Files and their contents in this repositrory are and contain:
+The following provides a list in the format 'filename: content':
 
 - A_short_story_on_the_factors_why_companies_fail.ipynb: Contains the story and plotted graphs
 
